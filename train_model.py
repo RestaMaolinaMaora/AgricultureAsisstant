@@ -101,7 +101,7 @@ if __name__ == "__main__":
     validation_dir = 'dataset/validation'
 
     # Menentukan jumlah epoch dan batch size
-    epochs = 10  # Anda bisa mengubah sesuai kebutuhan
+    epochs = 5  # Anda bisa mengubah sesuai kebutuhan
     batch_size = 16
 
     # Menghapus model lama jika ada
